@@ -9,6 +9,9 @@ function Footer() {
         <a href="https://jimfilippou.github.io" rel="noopener" target="__blank">
           Jim Filippou
         </a>{" "}
+        <a href="https://www.linkedin.com/in/konstantinoskalaitzidis/" rel="noopener" target="__blank">
+          Kostas Kalaitzidis
+        </a>{" "}
         &nbsp;
         <i class="fas fa-bolt"></i>
       </p>
